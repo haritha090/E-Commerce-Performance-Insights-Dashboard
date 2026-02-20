@@ -57,5 +57,3 @@ This project demonstrates how data analysis and visualization can be used to unc
 - Business Insight Generation
 - Dashboard Design 
 
-# Dashboard
-![Uploading Screenshot (134).png…](https://github.com/haritha090/E-Commerce-Performance-Insights-Dashboard/blob/main/Screenshot%20(134).png?raw=true)
